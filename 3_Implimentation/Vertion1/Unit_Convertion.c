@@ -31,6 +31,14 @@ int main()
   float USDtoRMB; // stores the converted USD->RMB;
   float ounceToPounds; // stores the converted Ounce->Pounds;
   float gramsToPounds; // stores the vonerted Grams->Pounds;
+
+  /**
+   * @brief Unit Convertion
+   * 
+   * 
+   * 
+   * @return Result of Convertion
+   */
   
   printf("Welcome to Unit Converter! \n");
   printf("Here is a list of conversation to choose from: \n");
