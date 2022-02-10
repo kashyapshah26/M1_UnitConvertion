@@ -26,4 +26,4 @@ to convert one unit to another
 ![quality grade](https://api.codiga.io/project/30983/status/svg)
 
 # Codiga Dashbord
-![cosacy dashboard](https://app.codiga.io/public/project/30983/M1_UnitConvertion/dashboard)
+![codacy dashboard](https://app.codiga.io/public/project/30983/M1_UnitConvertion/dashboard)
