@@ -17,7 +17,7 @@ to convert one unit to another
 [![Cppcheck](https://github.com/kashyapshah26/M1_UnitConvertion/actions/workflows/static-check.yml/badge.svg)](https://github.com/kashyapshah26/M1_UnitConvertion/actions/workflows/static-check.yml)
 
 # Dynamic check
-![Code Quality](https://api.codiga.io/project/30983/score/badge.svg)
+![Quality Code](https://api.codiga.io/project/30983/score/badge.svg)
 
 # Code Quality - Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/092d25c465bb4f25910ad059b44e35e7)](https://www.codacy.com/gh/kashyapshah26/M1_UnitConvertion/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kashyapshah26/M1_UnitConvertion&amp;utm_campaign=Badge_Grade)
