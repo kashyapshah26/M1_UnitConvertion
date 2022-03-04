@@ -1,3 +1,2 @@
 # design
 * structure
-* flowchart
